@@ -1,0 +1,10 @@
+1. create a new branch deleteme off master and enter it:
+	git checkout -b deleteme
+
+2. push branch deleteme to remote github
+	git push -u origin deleteme
+
+3. Delete branch locally
+	git branch -D deleteme
+
+    DONE
